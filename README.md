@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
 </p>
 
-> **Espaço para crescer:** Incentivamos nossas crianças a usar a imaginação para poderem explorar o seu próprio mundo.
-
 ## 🎯 Sobre o Projeto
 Este é um website institucional desenvolvido para o perfil **@quintalvoolivredosaber**.
 
