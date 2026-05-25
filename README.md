@@ -1,4 +1,4 @@
-<h1 align="center"> 🪁 Quintal Voo Livre do Saber </h1>
+<img width="1345" height="756" alt="quintal" src="https://github.com/user-attachments/assets/b8cbeb84-b90e-4847-be06-dbf4035d7435" /><h1 align="center"> Quintal Voo Livre do Saber </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -10,12 +10,12 @@
 > **Espaço para crescer:** Incentivamos nossas crianças a usar a imaginação para poderem explorar o seu próprio mundo.
 
 ## 🎯 Sobre o Projeto
-Este é um website institucional desenvolvido para o perfil **@quintalvoolivredosaber**. O projeto foi construído utilizando como base os ensinamentos e a estrutura da trilha **NLW #6 da Rocketseat**, sendo totalmente customizado e adaptado para a identidade visual e as necessidades da escola infantil.
+Este é um website institucional desenvolvido para o perfil **@quintalvoolivredosaber**.
 
 O objetivo do site é ser um espaço acolhedor na web que apresente a filosofia da escola, os serviços oferecidos e facilite o agendamento de visitas pelos pais.
 
-*(Dica: Adicione aqui uma captura de tela do site funcionando para encantar quem visitar o seu repositório!)*
-<!-- <img src="caminho/para/sua/imagem.png" alt="Screenshot do Site" width="100%" /> -->
+<img width="1345" height="756" alt="quintal" src="https://github.com/user-attachments/assets/25f001d9-06f6-44e6-90a3-c9735dc57785" />
+
 
 ---
 
