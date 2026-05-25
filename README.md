@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
 </p>
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 Este é um website institucional desenvolvido para o perfil **@quintalvoolivredosaber**.
 
 O objetivo do site é ser um espaço acolhedor na web que apresente a filosofia da escola, os serviços oferecidos e facilite o agendamento de visitas pelos pais.
@@ -17,21 +17,21 @@ O objetivo do site é ser um espaço acolhedor na web que apresente a filosofia 
 
 ---
 
-## ✨ Estrutura do Site (Landing Page)
+## Estrutura do Site (Landing Page)
 O projeto foi desenvolvido em formato de página única (One Page), garantindo uma navegação fluida através das seguintes seções:
 
-- **🏠 Início:** Apresentação de impacto com o botão para *Agendar uma visita*.
-- **📖 Sobre nós:** Área dedicada a apresentar o propósito da instituição.
-- **🧩 Nossos Serviços:** Explicação de como as relações sociais são trabalhadas de forma lúdica, divididos em três pilares:
+- **Início:** Apresentação de impacto com o botão para *Agendar uma visita*.
+- **Sobre nós:** Área dedicada a apresentar o propósito da instituição.
+- **Nossos Serviços:** Explicação de como as relações sociais são trabalhadas de forma lúdica, divididos em três pilares:
   - *Cuidados*
   - *Alimentação*
   - *Diversão*
-- **💬 Depoimentos:** Área de prova social com relatos de quem já passou pelo Quintal (Eliane Souza, Gabriela Lamounier e Fatima Rodrigues).
-- **📞 Contato:** Chamada para tirar dúvidas, ouvir críticas e sugestões.
+- **Depoimentos:** Área de prova social com relatos de quem já passou pelo Quintal (Eliane Souza, Gabriela Lamounier e Fatima Rodrigues).
+- ** Contato:** Chamada para tirar dúvidas, ouvir críticas e sugestões.
 
 ---
 
-## 🚀 Tecnologias e Proporções
+## Tecnologias e Proporções
 A interface foi construída sem o uso de frameworks complexos, focando na tríade clássica do front-end com código limpo e semântico:
 
 - **HTML5 (59.1%)** — Estrutura e semântica das páginas.
@@ -40,7 +40,7 @@ A interface foi construída sem o uso de frameworks complexos, focando na tríad
 
 ---
 
-## 🌐 Visualizar Online (Deploy)
+##  Visualizar Online (Deploy)
 A aplicação está hospedada gratuitamente através do **GitHub Pages**.
 
 🔗 **[Acessar o Projeto Online](#)** *(Nota: Atualize o link com a URL oficial gerada pelo seu GitHub Pages)*
