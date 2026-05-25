@@ -44,14 +44,3 @@ A interface foi construída sem o uso de frameworks complexos, focando na tríad
 A aplicação está hospedada gratuitamente através do **GitHub Pages**.
 
 **[Acessar o Projeto Online](#)** = https://octaviocrv.github.io/My-first-project---QuintalVooLivre/
-
----
-
-## ⚙️ Como rodar localmente
-
-Por ser um projeto web estático, rodar na sua máquina é extremamente rápido e não requer a instalação do Node.js.
-
-**1. Clone este repositório:**
-```bash
-git clone [https://github.com/octaviocrv/website-institucional-escola.git](https://github.com/octaviocrv/website-institucional-escola.git)
-cd website-institucional-escola
