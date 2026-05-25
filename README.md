@@ -43,7 +43,7 @@ A interface foi construída sem o uso de frameworks complexos, focando na tríad
 ##  Visualizar Online (Deploy)
 A aplicação está hospedada gratuitamente através do **GitHub Pages**.
 
-🔗 **[Acessar o Projeto Online](#)** *(Nota: Atualize o link com a URL oficial gerada pelo seu GitHub Pages)*
+**[Acessar o Projeto Online](#)** = https://octaviocrv.github.io/My-first-project---QuintalVooLivre/
 
 ---
 
